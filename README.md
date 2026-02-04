@@ -6,3 +6,6 @@
     - cursor logo 
     - Navigation links 
     - call-to-action button 
+
+- create hero-section
+    

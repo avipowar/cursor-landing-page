@@ -15,3 +15,7 @@
 ## create feature block section 
     - add text 
     - add img 
+
+## add new features 
+    - make card
+    - amd show how to enable new features 

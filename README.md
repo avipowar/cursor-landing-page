@@ -19,3 +19,8 @@
 ## add new features 
     - make card
     - amd show how to enable new features 
+    
+## create new feature block
+    - create cards 
+    - add how to use the features 
+

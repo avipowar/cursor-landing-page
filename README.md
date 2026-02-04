@@ -1,3 +1,8 @@
 # create cursor landing page 
 
-- set the project
+- setup the project
+
+- create navbar
+    - cursor logo 
+    - Navigation links 
+    - call-to-action button 

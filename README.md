@@ -8,4 +8,6 @@
     - call-to-action button 
 
 - create hero-section
+
+- create features section 
     

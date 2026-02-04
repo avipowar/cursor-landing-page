@@ -53,3 +53,8 @@ A responsive landing page inspired by the Cursor website, built using HTML and C
 - Multiple footer columns
 - Links and resources
 - Copyright information
+
+
+## live demo 
+[View Live Website](https://avinash-cursor-landing-page.netlify.app/)
+

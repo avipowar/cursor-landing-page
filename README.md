@@ -10,4 +10,5 @@
 - create hero-section
 
 - create features section 
+    - create 3 cards with image
     

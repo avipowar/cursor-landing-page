@@ -219,3 +219,159 @@ body{
     margin-bottom: 15px;
 
 }
+
+/* cursor configuration container */
+
+.cursor-configration{
+    margin-bottom: 90px;
+}
+
+.cursor-configuration-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.cursor-configuration-card{
+  width: 280px;
+  background-color:#1d1b15;
+  border-radius: 12px;
+  padding: 22px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.cursor-configuration-text{
+    margin-bottom: 30px;
+    line-height: 28px;
+
+}
+
+.cursor-configuration-text h3 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.cursor-configuration-text p {
+    font-size: 16px;
+    color: gray;
+    font-weight: 500;
+}
+
+
+
+.cursor-configuration-card h3{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.cursor-configuration-card p{
+    font-size: 12px;
+    color: gray;
+    font-weight: 500;
+    line-height: 16px;
+    margin-bottom: 12px;
+}
+
+/* changlog */
+
+.changlog{
+    margin-bottom: 80px;
+}
+
+.changlog-btn{
+    padding: 4px 12px;
+    border-radius: 10px;
+    font-size: 10px;
+    background-color: var(--bg-dark);
+    color: var(--text-color-white);
+    border: none;
+    border: white solid 1px; 
+    margin-right:2px ;
+}
+
+.changlog-text{
+    color: var(--text-color-white);
+    font-size: 12px;
+}
+
+.changlog-orange-text{
+    color: var(--text-color-orange);
+    margin-top: 20px;
+}
+
+
+/* cursor download */
+
+.download-cursor{
+    margin-bottom: 30px;
+}
+
+.download-cursor-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-title-last{
+    font-size: 44px;
+    margin-bottom: 12px;
+    margin-left: 2px;
+}
+
+.hero-btn-last{
+    background-color: var(--bg-white);
+    padding: 10px 38px;
+    font-size: 14px;
+    border-radius: 18px;
+    cursor: pointer;
+    border: none;
+    margin-left: 2px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+/* footer */
+
+.footer {
+    padding: 40px 100px;
+    background-color: #1d1b15;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.footer-container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 40px;
+}
+
+.footer-column h4 {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 16px;
+}
+
+.footer-column ul {
+  list-style: none;
+}
+
+.footer-column ul li {
+  margin-bottom: 12px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.footer-column ul li:hover {
+  color: #d1d5db;
+}
+
+.footer-bottom {
+  margin-top: 40px;
+  font-size: 13px;
+  color: #9ca3af;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
